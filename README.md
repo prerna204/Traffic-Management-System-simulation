@@ -41,4 +41,7 @@ python simulation.py
 - **🚑 Emergency Vehicle Detection:** Emergency vehicles like ambulances are prioritized with automatic green signals.
 - **🚘 Vehicle Classification:** Vehicles are categorized into emergency and non-emergency for optimized flow.
 
+![image](https://github.com/user-attachments/assets/62e7937f-0f63-4521-9127-15533bd72509)
+
+
 
